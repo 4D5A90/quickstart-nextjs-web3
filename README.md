@@ -6,9 +6,11 @@ Easily kickstart your Web3 projects using NextJS. Comes pre-configured with rain
 
 ## Features
 
-- Web3 Integration: utilizes rainbow-kit for connecting the Web3 wallet with and wagmi and viem in background, ensuring seamless integration with blockchain functionalities.
+- Web3 Integration: utilizes [rainbow-kit](https://www.rainbowkit.com/docs/introduction) for connecting the Web3 wallet with and [wagmi](https://wagmi.sh/react/getting-started) and [viem](https://viem.sh/docs/getting-started) in background, ensuring seamless integration with blockchain functionalities.
 
-- Dotenv Safety: leveraging t3-oss/env for managing type safety of environment variables, enhancing security and reliability in handling sensitive information.
+- Dotenv Safety: leveraging [t3 env](https://env.t3.gg/docs/introduction) for managing type safety of environment variables, enhancing security and reliability in handling sensitive information.
+
+- Components Library: incorporates [shadcn/ui](https://ui.shadcn.com/docs), an open-source component library powered by [Tailwind CSS](https://tailwindcss.com/docs/installation) and [Radix UI](https://www.radix-ui.com/themes/docs/overview/getting-started), allowing for easy integration of accessible and customizable components into your applications.
 
 - TypeScript Support: write your React code in TypeScript, enabling type safety and improved developer productivity.
 
